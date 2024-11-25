@@ -1,0 +1,16 @@
+to get started
+
+git clone <this repo>
+
+virtualenv env
+pip3 install -R requirements.txt
+
+in one terminal window, run
+
+./mqtt_subscriber
+
+in another terminal window, run
+
+./mqtt_publisher
+
+
